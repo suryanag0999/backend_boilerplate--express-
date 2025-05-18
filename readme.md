@@ -7,20 +7,22 @@ This is a basic backend boilerplate using **Node.js**, **Express**, and **MongoD
 ## 🗂️ Folder Structure
 
 backend/
-├── config/ # Database connection
+├── utils/ # Database connection
+
 ├── controllers/ # Route logic (business logic)
+
 ├── middleware/ # Custom middleware (auth, error handling)
+
 ├── models/ # Mongoose models
+
 ├── routes/ # API route definitions
+
 ├── .env # Environment variables
+
 ├── index.js # Entry point
+
 └── package.json
 
-yaml
-Copy
-Edit
-
----
 
 ## ⚙️ Getting Started
 
