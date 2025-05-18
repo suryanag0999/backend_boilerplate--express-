@@ -41,7 +41,9 @@ npm install --save-dev nodemon
 
 ## Create a .env file
 PORT=5000
+
 MONGO_URI=mongodb://localhost:27017/yourdbname
+
 JWT_SECRET=yourSuperSecret
 
 
